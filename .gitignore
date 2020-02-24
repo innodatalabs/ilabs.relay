@@ -1,0 +1,22 @@
+## Packages
+*.egg
+*.egg-info
+
+# Python
+*.py[co]
+__pycache__/
+
+# Tests
+.cache
+
+# Endpoints
+lib
+
+.venv
+
+secret.json
+gce.json
+secret-gce.json
+
+.pytest_cache
+.vscode

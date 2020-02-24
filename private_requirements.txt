@@ -1,0 +1,5 @@
+flask~=1.1.1
+flask-restful-swagger-2~=0.35
+requests~=2.22.0
+ilabs.api~=5.2.2
+
