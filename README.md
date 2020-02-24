@@ -1,4 +1,4 @@
-# ilabs-api-hack
+# ilabs.relay
 Utility GAE service that relays HTTP requiests to workers. Useful to diagnoze connectivity problems between GAE and workers.
 
 
